@@ -1,0 +1,13 @@
+
+
+
+https://tutorialedge.net/post/typescript/angular/angular-modules-tutorial/
+http://jsdiaries.com/resources/
+https://johnpapa.net/introducing-angular-modules-feature-modules-2/
+http://jsdiaries.com/2017/01/16/angular-2-module-and-routes-structure/
+https://github.com/garethgd/Angular2-Boiler
+
+http://jsdiaries.com/2017/03/10/sass-in-angular/
+
+
+https://fonts.google.com/

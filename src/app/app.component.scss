@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Ravi+Prakash');
+li {
+    font-size: large;
+}
+
+div.panel-heading {
+    font-size: x-large;
+}
+
+.router-outlet-container {
+    border: 5px solid green;
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Ravi Prakash', cursive;
+}

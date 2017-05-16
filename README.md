@@ -10,8 +10,9 @@ Building a few sample modules for building out HR-staffing, Product Management, 
 
 ## Links ##
 
-https://v4-alpha.getbootstrap.com/about/brand/
-https://github.com/twbs/bootstrap
+[https://v4-alpha.getbootstrap.com/about/brand/](https://v4-alpha.getbootstrap.com/about/brand/)
+
+[https://github.com/twbs/bootstrap](https://github.com/twbs/bootstrap)
 
 ----------
 
